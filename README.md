@@ -1,4 +1,4 @@
-### dont click to this video : https://youtu.be/dQw4w9WgXcQ
+### dont click on this video : https://youtu.be/dQw4w9WgXcQ
 
 <!--
 **irfaantx/irfaantx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
